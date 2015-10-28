@@ -50,6 +50,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [스프링노트](http://www.springnote.com/){: .article data-tags="rails shutdown" }
 - [에폴리아](http://www.epollia.com/){: .article data-tags="rails shutdown" }
 - [팡요](http://pangyo.ca/){: .article data-tags="rails shutdown" }
+- [리본즈코리아](http://www.reebonz.co.kr.com/){: .article data-tags="rails ing" } 
 
 ## [레일스를 사용하는 회사](#corp)
 {: #corp}
